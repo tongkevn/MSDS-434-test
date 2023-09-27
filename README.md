@@ -1,2 +1,2 @@
 # booking-app
-# UPDATE TEXT HERE
+# i updated the text in the terminal!
